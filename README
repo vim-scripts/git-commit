@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1934
+
+this ftplugin (and syntax file) brings you the ability to see the diffs of the commit you are commenting at the same time, a bit like svn-commit does.
